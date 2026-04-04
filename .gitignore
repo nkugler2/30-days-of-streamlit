@@ -1,0 +1,7 @@
+# This is for me personally using `direnv` to always activate my conda environment
+.envrc
+
+# These are when I was trying to get my obsidian neovim build working to make documentaiton
+.obsidian/
+daily/
+templates/
