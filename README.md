@@ -7,5 +7,7 @@ This file is both a traditional README.md file, as well as an attempt to use obs
 [[Day 1 - Setting up a local development environment]]
 [[Day 2 - Building your first Streamlit app]]
 [[Day 3 - st.button]]
+[[Day 4 - Building Streamlit apps with Ken Jee (Video)]]
+
 
 
