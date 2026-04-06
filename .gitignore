@@ -5,3 +5,6 @@
 .obsidian/
 daily/
 templates/
+
+.DS_Store
+*.vscode/
